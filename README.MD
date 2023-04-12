@@ -197,6 +197,9 @@ export default Home;
 
 Com isso nossa screen Home ficando da seguinte forma no dispositivo:
 
+<img width="412" alt="Home" src="https://user-images.githubusercontent.com/99269515/231539586-b8c654e7-b7b9-42a7-8998-d3cb4e681474.png">
+
+
 Agora uma clicando em dos cards ele vai disparar a função que vai navega-lo para a sua respectiva tela, para isso fizemos as outras screens da seguinte forma:
 
 ```tsx
