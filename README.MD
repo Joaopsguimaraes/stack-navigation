@@ -248,6 +248,9 @@ export default Ideas;
 
 Ficando da seguinte forma no dispositivo:
 
+https://user-images.githubusercontent.com/99269515/231540105-b8be985c-dca0-4b76-b0e8-2d9862c0e072.mp4
+
+
 > Este foi uma simples demonstração e exemplo de como podemos trabalhar com navegação em pilha no React native. Caso queria rodar o projeto e ver sua funcionalidade, somente realizar um `git clone ...` e logo após:
 >
 
